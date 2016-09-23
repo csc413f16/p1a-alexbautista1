@@ -1,13 +1,14 @@
 Name:Alex Bautista
 
-Compilation and Run Successful: NO
+Compilation and Run Successful: NO    compilation: successfull
 
 Unit Test Run Successfully: NO
-****configuring Git and Github with Android studio went ok. Problem is when running the emulator,
+****configuring Git and Github with Android studio went ok. The programs compiled
+ successfully. Problem is when running the emulator,
 there is a message saying that "vt-x is disabled in the BIOS," also because of this,
 intelHAMX was not installed or not working.
-****Trying to solve this problem, my BIOS setup menu is not showing anything for
-vitual software. Continuing on the hunt for a solution.
+****Trying to solve this problem, my BIOS setup menu is not showing any option for
+vitual software. Continuing on the hunt for a solution before the next project.
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
